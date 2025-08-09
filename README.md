@@ -83,7 +83,7 @@ Rest of the cases where the webcam detects the users eyes and the screen turns b
 ## Team Contributions
 opencv implementation - Abhilash A
 tkinter implementation - Vysakh P Chandran
----
+
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
