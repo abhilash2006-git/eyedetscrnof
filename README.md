@@ -51,6 +51,22 @@ This project uses OpenCV's Haar Cascade Classifiers to detect human faces and ey
 
 # Screenshots 
 
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/55fe3649-7768-4e31-b9bf-56f2c691f871" />
+Sample image of our Project code.
+
+
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/a49cc049-8050-41ad-bd55-98a36123fe14" />
+Screen stays on when the person isn't facing the screen.
+
+
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/0ac43f18-45c7-48fd-8e95-8d5364dc1984" />
+Screen stays turned on when the person's eyes are closed.
+
+
+
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/21c18747-4ed0-4511-afbd-aabea8af6650" />
+Rest of the cases where the webcam detects the users eyes and the screen turns black.
+
 
 
 # Diagrams
@@ -65,10 +81,8 @@ This project uses OpenCV's Haar Cascade Classifiers to detect human faces and ey
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+opencv implementation - Abhilash A
+tkinter implementation - Vysakh P Chandran
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
