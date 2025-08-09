@@ -76,11 +76,16 @@ Rest of the cases where the webcam detects the users eyes and the screen turns b
 
 ### Project Demo
 # Video
+since the video even after compressing 2 times it's still greater than 10 mb, a video ofn the name "Screen Recording 2025-08-09 155752 (1).mp4" is provided in the repository
+Explanation:
+
+The first 10 seconds showcase the entire code. Then, it shows a user looking away from the screen, so the screen remains visible. Next, the user closes their eyes while facing the screen; the screen stays visible since the eyes are closed. After positioning themselves facing the camera, the user opens their eyes, which is detected by OpenCV, causing the entire screen to turn black and making it impossible to work on the system while looking at the screen. The user then repeats this cycle looking in the opposite direction. Finally, the camera is physically disconnected, resulting in no eyes being detected, and the system returns to normal operation.
 
 
 
 ## Team Contributions
 opencv implementation - Abhilash A
+
 tkinter implementation - Vysakh P Chandran
 
 Made with ❤️ at TinkerHub Useless Projects 
