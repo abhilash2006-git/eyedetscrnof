@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="Uselessss Diagram" src="https://github.com/user-attachments/assets/b9582dc8-751c-4fbb-b147-5a7ada0b6cbc" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # Automated Screen Blackout via Eye Detection 
