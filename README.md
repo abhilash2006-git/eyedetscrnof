@@ -1,7 +1,7 @@
 <img width="1024" height="1536" alt="Uselessss Diagram" src="https://github.com/user-attachments/assets/b9582dc8-751c-4fbb-b147-5a7ada0b6cbc" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# Automated Screen Blackout via Eye Detection 🎯
+# Automated Screen Blackout via Eye Detection 
 
 
 ## Basic Details:
@@ -40,7 +40,7 @@ Built-in Camera present in laptop for eye detection
 ### Implementation
 For Software:
 # Installation
-pip install opencv-python numpy
+pip install opencv-python numpy tkinter
 
 # Run
 python eye_detection_black_screen.py
@@ -54,7 +54,8 @@ This project uses OpenCV's Haar Cascade Classifiers to detect human faces and ey
 
 
 # Diagrams
-<img width="1024" height="1536" alt="Uselessss Diagram" src="https://github.com/user-attachments/assets/d5be283f-3c7a-4bc0-9343-19be251b1764" />
+<img width="1024" height="1536" alt="Uselessss Diagram" src="https://github.com/user-attachments/assets/700295e3-ca10-4e24-8b93-d2bf28d8a385" />
+
 
 
 ### Project Demo
