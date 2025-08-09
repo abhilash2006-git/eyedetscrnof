@@ -76,8 +76,7 @@ Rest of the cases where the webcam detects the users eyes and the screen turns b
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 
 ## Team Contributions
